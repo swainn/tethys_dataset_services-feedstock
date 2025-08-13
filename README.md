@@ -35,7 +35,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-tethys_dataset_services-green.svg)](https://anaconda.org/conda-forge/tethys_dataset_services) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/tethys_dataset_services.svg)](https://anaconda.org/conda-forge/tethys_dataset_services) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/tethys_dataset_services.svg)](https://anaconda.org/conda-forge/tethys_dataset_services) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/tethys_dataset_services.svg)](https://anaconda.org/conda-forge/tethys_dataset_services) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-tethys__dataset__services-green.svg)](https://anaconda.org/conda-forge/tethys_dataset_services) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/tethys_dataset_services.svg)](https://anaconda.org/conda-forge/tethys_dataset_services) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/tethys_dataset_services.svg)](https://anaconda.org/conda-forge/tethys_dataset_services) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/tethys_dataset_services.svg)](https://anaconda.org/conda-forge/tethys_dataset_services) |
 
 Installing tethys_dataset_services
 ==================================
