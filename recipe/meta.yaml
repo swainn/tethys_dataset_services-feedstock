@@ -1,5 +1,6 @@
 {% set name = "tethys_dataset_services" %}
-{% set version = "2.3.0" %}
+{% set version = "2.4.0" %}
+{% set python_min = "3.10.*" %}
 
 package:
   name: {{ name|lower }}
@@ -7,12 +8,12 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 8b78f836c92e7f0e700f92e3656b460f65ed65c12f2945c09442cf8e938b32b7
+  sha256: a3540e9de5a7148ec04cced0984805f95a89959116aeefde4c804c1330bfd67c
 
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 1
+  number: 0
 
 requirements:
   host:
