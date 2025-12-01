@@ -32,6 +32,7 @@ requirements:
     - sqlalchemy <2
     - psycopg2
     - psycopg2-binary
+    - urllib3 >=1.26,<2.0
 
 test:
   imports:
